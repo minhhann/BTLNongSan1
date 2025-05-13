@@ -1,0 +1,9 @@
+Hướng dẫn cách chạy:
+ B1: lưu file vào nơi bạn muốn
+ B2: mở cmd và chạy lệnh: cd BTLNongSan
+ B3: tiếp theo gõ: cd client -> npm run dev (hiện ra link dẫn dến giao diện website)
+ B4: mở tiếp tục một cmd và cũng gõ: cd BTLNongSan -> cd server -> npm run server (để khởi chạy server)
+
+Đường dẫn đến trang admin: http://localhost:5173/seller
+	email: admin@gmail.com
+	pass: nongsan12345
